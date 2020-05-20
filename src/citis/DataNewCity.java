@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * CClass for creating a new bark
+ * Class for creating a new city
  */
 
 public class DataNewCity {
