@@ -1,0 +1,2 @@
+execute_script com.txt
+help

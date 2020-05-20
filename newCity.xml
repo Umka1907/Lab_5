@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DataCities>
+    <initializationTime>2020-04-29T23:59:26.581</initializationTime>
+    <cities id="1">
+        <name>D</name>
+        <coordinates>
+            <x>6.0</x>
+            <y>0</y>
+        </coordinates>
+        <creationDate>2020-04-30</creationDate>
+        <area>9</area>
+        <population>8</population>
+        <metersAboveSeaLevel>8</metersAboveSeaLevel>
+        <telephoneCode>9</telephoneCode>
+        <agglomeration>7</agglomeration>
+        <government>GERONTOCRACY</government>
+        <governor>
+            <age>8</age>
+        </governor>
+    </cities>
+</DataCities>
